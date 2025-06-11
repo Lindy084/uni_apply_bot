@@ -1,3 +1,6 @@
+![GPT-3.5](https://img.shields.io/badge/Model-GPT--3.5-blue)
+![No-Code](https://img.shields.io/badge/No--Code-Friendly-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # uni_apply_bot
 A smart assistant that helps students in South Africa apply to university, apply for NSFAS, and understand the CAO process.
 # 🎓 UniApply Bot – University Application Assistant for South African Students
