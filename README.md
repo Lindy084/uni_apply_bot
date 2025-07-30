@@ -9,7 +9,7 @@ A smart assistant that helps students in South Africa apply to university, apply
 
 ## 📌 What is UniApply Bot?
 
-**UniApply Bot** is a no-code AI assistant built using Poe (by Quora). It helps South African students apply to university with step-by-step support.
+UniApply Bot is a no-code AI assistant built using Poe (by Quora). It helps South African students apply to university with step-by-step support.
 
 ## 🤖 What the bot can do
 
@@ -21,8 +21,8 @@ A smart assistant that helps students in South Africa apply to university, apply
 
 ## 🧠 Built With
 
-- **Poe Prompt Bot (Quora Poe)**
-- Powered by **GPT-3.5 Turbo**
+- Poe Prompt Bot (Quora Poe)
+- Powered by GPT-3.5 Turbo
 - No coding required
 
 ## 💬 Example Questions
@@ -40,6 +40,6 @@ A smart assistant that helps students in South Africa apply to university, apply
 
 ## 📄 Author
 
-Made with ❤️ by [Lindy Ndlazi](https://github.com/Lindy084)  
-Contact: [LinkedIn](https://linkedin.com) | Email: (ndlazilindy22@gmail.com)
+Made with ❤️ by [Lindiwe Ndlazi](https://github.com/Lindy084)  
+Contact: [LinkedIn](https://www.linkedin.com/in/ndlazi-lindiwe-76baa6229) | Email:(ndlazilindy22@gmail.com)
 
